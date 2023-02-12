@@ -13,3 +13,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/server/docker-config/postgres/data
+/server/minio/data
+/server/minio_data/.minio.sys
